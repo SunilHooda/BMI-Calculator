@@ -9,7 +9,6 @@ A simple BMI-Calculator.
 
 - Responsive Layout
 - Form Validation
--
 
 ## Built With
 
