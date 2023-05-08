@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link
+      rel="shortcut icon"
+      href="Images/Main_Logo_W.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="https://github.com/SunilHooda" target="_blank">
+          <img src="./Images/Main_Logo_W.png" alt="Logo" />
+        </a>
+        <a href="https://sunilhooda.github.io/" target="_blank">
+          <h1>Sunil Hooda</h1>
+        </a>
+      </div>
+    </header>
+
+    <div id="container">
+      <form>
+        <h1>Check your BMI</h1>
+        <h3>Enter your weight and height below to check your results</h3>
+
+        <label>Put your weight in here (KG)</label>
+        <input id="weight" type="Number" placeholder="weight in kg" required />
+
+        <label>Put your height in here (CM)</label>
+        <input id="height" type="Number" placeholder="height in cm" required />
+
+        <br />
+
+        <button id="btn">Calculate BMI</button>
+        <h3 id="res"></h3>
+      </form>
+    </div>
+  </body>
+</html>
+
+<script src="./script.js"></script>
