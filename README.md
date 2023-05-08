@@ -3,7 +3,7 @@
 A simple BMI-Calculator.
 <br />
 
-##[Deployed URL](https://bmi-calci-light.netlify.app/)
+## [Deployed URL](https://bmi-calci-light.netlify.app/)
 
 ## Features
 
@@ -24,4 +24,4 @@ To run my application you simply need to clone the project and run the html file
 
 ## HOME UI
 
-[HomePage]()
+![HomePage](https://github.com/SunilHooda/BMI-Calculator/blob/main/Images/HomeUI.png)
