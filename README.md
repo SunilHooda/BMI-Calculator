@@ -3,7 +3,7 @@
 A simple BMI-Calculator.
 <br />
 
-##[Deployed URL]()
+##[Deployed URL](https://bmi-calci-light.netlify.app/)
 
 ## Features
 
